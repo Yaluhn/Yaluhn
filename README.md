@@ -29,9 +29,8 @@ Aqui você encontra informações sobre
   
   
 <div>
-  <a href="mailto:ararvel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  
-  <a href="https://wa.me/5579999081126"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="mailto:ararvel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   <a href="https://www.linkedin.com/in/ravel-araujo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <!--<a href=""><img src="">
-  <a href=""><img src="">-->
+  <a href="283835159457955840"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href=""><img src="https://img.shields.io/github/followers/Yaluhn.svg?style=social&label=Follow&maxAge=2592000">
 </div>
