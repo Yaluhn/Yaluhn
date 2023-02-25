@@ -25,10 +25,12 @@ Aqui você encontra informações sobre
   <img align="center" alt="Yaluhn-MySQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Yaluhn-PostGreSQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Yaluhn-GIT" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <br>
 </div>
-  
+ 
   
 <div>
+  <br>
   <a href="mailto:ararvel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
   <a href="https://www.linkedin.com/in/ravel-araujo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="283835159457955840"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
