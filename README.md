@@ -19,9 +19,11 @@ Aqui você encontra informações sobre
   <img align="center" alt="Yaluhn-HTML5" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Yaluhn-CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   
-  <img align="center" alt="Yaluhn-Unity" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+  <img align="center" alt="Yaluhn-Unity" heigth="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   <img align="center" alt="Yaluhn-C#" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Yaluhn-Unreal" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+  
+          
   <img align="center" alt="Yaluhn-SQLite" heigth="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Yaluhn-GIT" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
